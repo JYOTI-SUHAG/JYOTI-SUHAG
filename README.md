@@ -13,8 +13,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jyoti suhag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyoti suhag" height="30" width="40" /></a>
-<a href="https://fb.com/jyoti singh suhag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jyoti singh suhag" height="30" width="40" /></a>
-<a href="https://instagram.com/jyoti.suhag.chhillaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jyoti.suhag.chhillaar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jyoti singh suhag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jyoti singh suhag" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/jyoti suhag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jyoti suhag" height="30" width="40" /></a>
 </p>
