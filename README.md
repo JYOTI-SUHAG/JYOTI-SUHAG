@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JYOTI SUHAG</h1>
-<h3 align="center">A passionate Graduate Research Assistant in Michigan Techological University, Houghton, MI-49931, USA</h3>
+<h3 align="center">I am an M.S. Computer Science student and passionate Graduate Research Assistant at Michigan Technological University, Houghton, MI. I am dedicated to advancing my knowledge and skills in computer science, with a strong focus on research and innovation. Let's collaborate and shape the future of technology together!</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 - 🔭 I’m currently working on **A Data Structure for 3-sided Skyline Queries**
